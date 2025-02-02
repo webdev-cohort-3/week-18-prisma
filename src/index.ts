@@ -1,0 +1,1 @@
+console.log("week 18 prisma and orm");
